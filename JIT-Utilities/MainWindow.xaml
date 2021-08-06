@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:JIT_Utilities"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="800" WindowStartupLocation="CenterScreen" 
+        MouseDown="Window_MouseDown" MouseUp="Window_MouseUp" MouseMove="Window_MouseMove"
+        AllowsTransparency="True" WindowStyle="None" Background="#7FFFFFFF">
     <Grid>
-        
+
     </Grid>
 </Window>
