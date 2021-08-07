@@ -2,14 +2,14 @@ D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-U
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\bin\Debug\JIT-Utilities.exe
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\bin\Debug\JIT-Utilities.pdb
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities.csprojAssemblyReference.cache
-D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\MainWindow.g.cs
-D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\App.g.cs
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities_MarkupCompile.cache
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities_MarkupCompile.lref
-D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\MainWindow.baml
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities.g.resources
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT_Utilities.Properties.Resources.resources
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities.csproj.GenerateResource.cache
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities.csproj.CoreCompileInputs.cache
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities.exe
 D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\JIT-Utilities.pdb
+D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\View\MainWindow.g.cs
+D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\Engine\App.g.cs
+D:\Documents\OneDrive - Deakin University\2020-2021 Projects\JIT-Utilities\JIT-Utilities\obj\Debug\View\MainWindow.baml

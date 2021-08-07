@@ -9,6 +9,6 @@
         MouseDown="Window_MouseDown" MouseUp="Window_MouseUp" MouseMove="Window_MouseMove"
         AllowsTransparency="True" WindowStyle="None" Background="#7FFFFFFF">
     <Grid>
-
+        
     </Grid>
 </Window>
